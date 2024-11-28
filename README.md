@@ -8,6 +8,6 @@
 
 ---
 
-- [x] **[TP1](https://github.com/MartinMetarhizium/vision_por_computadora_1/tree/TP1_FINAL)**
-- [x] **[TP2](https://github.com/MartinMetarhizium/vision_por_computadora_1/tree/TP2_FINAL)**
-- [x] **[TP3](https://github.com/MartinMetarhizium/vision_por_computadora_1/tree/TP3_FINAL)**
+- [x] **[TP1](https://github.com/MartinMetarhizium/vision_por_computadora_1/tree/TP1_FIN)**
+- [x] **[TP2](https://github.com/MartinMetarhizium/vision_por_computadora_1/tree/TP2_FIN)**
+- [x] **[TP3](https://github.com/MartinMetarhizium/vision_por_computadora_1/tree/TP3_FIN)**
